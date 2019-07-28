@@ -1183,7 +1183,6 @@ p {
 }
 
 .ts-has-overlay:after {
-    background-color: #000;
     content: "";
     height: 100%;
     left: 0;
@@ -2559,7 +2558,7 @@ body.has-loading-screen.loading-done #brand-navigation {
     align-items: center;
     background-color: #000;
     display: flex;
-    padding: .5rem .75rem;
+    padding-top: 10px;
     left: -1rem;
     position: relative;
 }

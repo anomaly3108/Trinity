@@ -26,7 +26,7 @@
     width: 100vw;
     height: 100vh;
     z-index: -10;
-    background: url('menuback.jpg') top center/cover no-repeat #958F84;
+    background: url('menuback.jpg') top center/cover no-repea;
 }
 
 h1 {
@@ -40,7 +40,7 @@ h1 {
 
 h1 small {
   display: block;
-  
+
   font-size: 0.5em;
 }
 
@@ -113,7 +113,7 @@ h1 small {
   color: #ef3453;
 }.social-button.dribbble:before {
   background-color: #c13584;
-    
+
 }
 .social-button.dribbble .fa {
   color: #e1306c;
@@ -134,7 +134,7 @@ h1 small {
           transform: scale(1);
 }
 
-.threed{ 
+.threed{
 text-align: center;
     margin: 0;
   font: bold 70px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -144,10 +144,10 @@ text-align: center;
 
 }
 
-.mar{ 
+.mar{
 text-align: justify;
     margin-left: 15%;
-    margin-right:10%; 
+    margin-right:10%;
   color: #fff;
 }
 tutsbody{background: url("bg/tuts.jpg");}
@@ -505,7 +505,7 @@ a {
 }
 
 body {
-  
+
   font-family: Electrolize, sans-serif;
 }
 
@@ -517,7 +517,7 @@ body {
   width: 600px;
   height: 150px;
   margin-left: auto;
-  margin-right:auto; 
+  margin-right:auto;
   padding: 20px;
   font-weight: 600;
   text-align: center;
@@ -584,7 +584,7 @@ body {
   width: 600px;
   height: 150px;
   margin-left: auto;
-  margin-right:auto; 
+  margin-right:auto;
   padding: 20px;
   font-weight: 600;
   text-align: center;
@@ -603,7 +603,7 @@ body {
   width: 600px;
   height: 150px;
   margin-left: auto;
-  margin-right:auto; 
+  margin-right:auto;
   padding: 20px;
   font-weight: 600;
   text-align: center;
